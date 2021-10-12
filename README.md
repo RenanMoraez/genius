@@ -1,1 +1,2 @@
-# genius
+# Projeto do joguinho genius
+
